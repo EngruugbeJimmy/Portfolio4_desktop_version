@@ -12,7 +12,7 @@ For this repository, I've created html templates and styling files in order to b
 
 ## Live Demo
 
-[Live Demo Link](https://EngruugbeJimmy.github.io/Portfolio-mobile-view/)
+[Live Demo Link](https://EngruugbeJimmy.github.io/Portfolio4-Desktop-version/)
 
 ### Install
 
