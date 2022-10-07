@@ -110,9 +110,9 @@
     letter-spacing: 0.37px;
     width: 500px;
     color: #091e42;
-       animation-name: fadein;
-animation-duration: 0.4s;
-animation-timing-function: ease-in-out;
+    animation-name: fadein;
+    animation-duration: 0.4s;
+    animation-timing-function: ease-in-out;
   }
 
   .description {
@@ -416,6 +416,7 @@ animation-timing-function: ease-in-out;
     flex-grow: 0;
     text-decoration: none;
   }
+
   .highlight-2:focus {
     display: flex;
     flex-direction: row;
@@ -433,6 +434,7 @@ animation-timing-function: ease-in-out;
     border-radius: 8px;
     order: 3;
   }
+  
  .font-4:focus {
     position: static;
     font-family: "Poppins", sans-serif;
