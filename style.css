@@ -434,8 +434,8 @@
     border-radius: 8px;
     order: 3;
   }
-  
- .font-4:focus {
+
+  .font-4:focus {
     position: static;
     font-family: "Poppins", sans-serif;
     font-style: normal;
