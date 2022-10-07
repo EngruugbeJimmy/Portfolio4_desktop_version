@@ -43,6 +43,16 @@
     padding-top: 17px;
   }
 
+  #rotateimg180 {
+    transition: 0.9s;
+    -webkit-transform:rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+
+
   .navbar .logo {
     font-family: "Poppins", "Times New Roman", Times, serif;
     color: var(--primary);
