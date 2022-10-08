@@ -44,7 +44,7 @@
   }
 
   #rotateimg180 {
-    transition: 0.9s;
+    transition: 0.95s;
     -webkit-transform: rotate(360deg);
     -moz-transform: rotate(360deg);
     -ms-transform: rotate(360deg);
